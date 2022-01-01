@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexflu
-- 👀 I’m interested in coding, started using D.O.S. since I was 2 so it comes pretty natural and I love the work done here <3
+- 👀 I’m interested in coding, started using D.O.S. since I was 2 but I mostly do trail and error solo to figure stuff out, I love the work done here <3
 - 🌱 I’m currently learning JS, HTML, Binary, general coding I suppose?
 - 💞️ I’m looking to collaborate on any project that peaks my interest and is "challenging"
 - 📫 How to reach me alexflu009@gmail.com
