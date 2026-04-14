@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexflu
-- 👀 I’m interested in coding when I wish to modify something to adhere to my desires
-- 🌱 I'm quite the noob, mostly self taught via reverse engineering using trial and error.. much error...
-- 💞️ I’m looking to collaborate on any project that peaks my interest!
+- 👀 I became interested in coding when I wanted to modify something to adhere to my desires
+- 🌱 I'm quite the noob, only self taught via reverse engineering using trial and error.. much error...
+- 💞️
 - 📫 How to reach me: alexflu009@gmail.com
 
 <!---
